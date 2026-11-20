@@ -1,5 +1,13 @@
 # @assistant-ui/store
 
+## 0.3.25
+
+### Patch Changes
+
+- [#10766](https://github.com/assistant-ui/assistant-ui/pull/10766) [`ca7c132`](https://github.com/assistant-ui/assistant-ui/commit/ca7c132a2e734d3ceeeca3b164f693aabebebb51) - Preserve a reader's upward scroll when a thread viewport footer shrinks. ([@rupic-app](https://github.com/apps/rupic-app))
+
+- [#10696](https://github.com/assistant-ui/assistant-ui/pull/10696) [`c21c46d`](https://github.com/assistant-ui/assistant-ui/commit/c21c46d0cdef039ec1377eefa3f01507df22453c) - Recheck viewport position when the content inset changes. ([@rupic-app](https://github.com/apps/rupic-app))
+
 ## 0.3.24
 
 ### Patch Changes
